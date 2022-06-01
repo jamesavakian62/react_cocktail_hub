@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Cocktail Hub, React App w item search
+
+![Screen Shot 2022-05-31 at 9 04 26 PM](https://user-images.githubusercontent.com/92414210/171325315-c029f020-377e-43c6-b860-12c4933ad178.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
